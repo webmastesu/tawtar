@@ -1,0 +1,26 @@
+[
+  {
+    "keyname": "US Server 1",
+    "protocol": "ss://",
+    "is_vip": false,
+    "country": "US",
+    "flagimgurl": "https://flagcdn.com/w40/us.png",
+    "encrypted_key": "xUkzpq+ZrqewWr7U0FJovKpPGwK1Sq2FeZcpkC5hr9PaexPnH5qQ7ZQaI5GYSO5jx96huwfqjXVNVHQp4rr8jaujfucMwzh4chyHSShcq3G6wYzfjJJCUrMZCqgLFa2H56rxt5XwMS4GVbTxLRv8gw=="
+  },
+  {
+    "keyname": "Premium Server",
+    "protocol": "vless://",
+    "is_vip": true,
+    "country": "SG",
+    "flagimgurl": "https://flagcdn.com/w40/sg.png",
+    "encrypted_key": "xyn3VIcn5mAJueQuz3JVrUC+vwMRsuYZcCBKYgGiSWHS3A2CZy8LUk+gP/f9pIOAfP5J8UqhnJx//DnxF43hdLRFU1UiBtVJnHb3xjCcCxKcCNVsH6Rj/pcPQS2dSjB1"
+  },
+  {
+    "keyname": "Japan Server",
+    "protocol": "vmess://",
+    "is_vip": false,
+    "country": "JP",
+    "flagimgurl": "https://flagcdn.com/w40/jp.png",
+    "encrypted_key": "9aS0nXErz27CuV3EUy9bAUJq8EtdLxlqAAvfcfVuDRtdZ84lsFxFCUdeAr+XholA"
+  }
+]
