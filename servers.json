@@ -5,7 +5,7 @@
     "is_vip": false,
     "country": "US",
     "flagimgurl": "https://flagcdn.com/w40/us.png",
-    "encrypted_key": "xUkzpq+ZrqewWr7U0FJovKpPGwK1Sq2FeZcpkC5hr9PaexPnH5qQ7ZQaI5GYSO5jx96huwfqjXVNVHQp4rr8jaujfucMwzh4chyHSShcq3G6wYzfjJJCUrMZCqgLFa2H56rxt5XwMS4GVbTxLRv8gw=="
+    "encrypted_key": "wYbqS6tvwZmKKfghBJcF0IyQwRh88Tuk9AjCSGv8QfSAroZGV8gC+dWMh5gtkJFTJNZRY5PFk8dTTxNjcNPwF6HB60+rfo+rmmmTTxDNxbyIJMO6HiqFVBzlqc2hU8FBRM+SG48OYnDYFCyXgkoIPA=="
   },
   {
     "keyname": "Premium Server",
@@ -13,7 +13,7 @@
     "is_vip": true,
     "country": "SG",
     "flagimgurl": "https://flagcdn.com/w40/sg.png",
-    "encrypted_key": "xyn3VIcn5mAJueQuz3JVrUC+vwMRsuYZcCBKYgGiSWHS3A2CZy8LUk+gP/f9pIOAfP5J8UqhnJx//DnxF43hdLRFU1UiBtVJnHb3xjCcCxKcCNVsH6Rj/pcPQS2dSjB1"
+    "encrypted_key": "AuclHuVUxbQzlvRPozFOzAK06phIYJkJCtv4M1bDT4zNJ0kMDImR/j0kw1S2+kBmd/xhEpCSTllDWhstOFVIxPh+pZo6n/NcIyO5wkmE1a5wcumoa9uvmOLdTiRmG4Uj/ZvSMquFIQeEXaQZdscv8tRpnjqO4ViCKlXeJFxNoq+oVNxAbji4vv1zYl00g0fPnZH+29RYWui+Nu7k3ml2KpTZCjnndavMy4MFE+X1kUikSfmvgU+vr92FfaMnktQE3pHarjyxgRPcaWodl2AzNNa8fXTHrMmVRTW+tI6K/995mwOoVBTHTuzo6WvT6+4wwFOE/lLjF4OZveTOanvzmwkO2bXP/CZrpfda2UFgrik="
   },
   {
     "keyname": "Japan Server",
@@ -21,6 +21,6 @@
     "is_vip": false,
     "country": "JP",
     "flagimgurl": "https://flagcdn.com/w40/jp.png",
-    "encrypted_key": "9aS0nXErz27CuV3EUy9bAUJq8EtdLxlqAAvfcfVuDRtdZ84lsFxFCUdeAr+XholA"
+    "encrypted_key": "yCYLAs0Ztm3jj7Cq4EyPF1NdSXji6JuE3bWByNJ7ZFyR57ZY0ieIgVAA2GeNIupzvncoSaFvOGDHrLwYBqKrRwfH769ZEcumzg/D4v04Fy+4o2NOGUjx0jLw6Kf3wigPwALCwckhashC0Q1uaUrLtTr2R5di7v2ypwFQXPtA4dWyHqY1fnh/qVfP1JcyVfjttZkepv3Q++tZsIYMJZaR4sgoGKmUZ7ISlVdLCmhx7S/6PsS5s2wDnu0BFZZoaWFzohuBgMVXi435Yk4hg5Zva77EiHTcB59KUkL+yjGZZHqcKlTlMF3DwOJlGkN7QVu0n9KnbYznSB/lLtGUs2Yy7ThtHoyEbPtmHSn2IGR9uc2nldQ7aNbcwOG1YceZKP3rQ9+LVMRZTPJnfnZ46BxKNPZ6tdN+klqYLFleHV73DZcUITvvwIK2RdJJSLMhz2Vp"
   }
 ]
